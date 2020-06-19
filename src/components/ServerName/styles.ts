@@ -3,6 +3,7 @@ import { ExpandMore } from '@styled-icons/material';
 import { rem } from 'polished';
 
 export const Container = styled.div`
+  grid-area: SN;
   display: flex;
   align-items: center;
   justify-content: space-between;
