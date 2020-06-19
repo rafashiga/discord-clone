@@ -29,7 +29,7 @@ export const Button = styled.button<Props>`
     height: 9px;
     position: absolute;
     left: ${rem('-17px')};
-    top: calc(50% - 4.5px);
+    /* top: calc(50% - 4.5px); */
     background-color: var(--white);
     border-radius: 50%;
     content: '';
