@@ -1,5 +1,4 @@
 import styled from 'styled-components';
-import { AlternateEmail } from '@styled-icons/material';
 import { rem } from 'polished';
 
 export const Container = styled.div`
