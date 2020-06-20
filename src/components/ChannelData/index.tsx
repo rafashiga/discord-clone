@@ -28,7 +28,7 @@ const ChannelData: React.FC = () => {
           .map((_, index) => (
             <ChannelMesage
               key={index}
-              author="Shiga"
+              author={'Fulano' + index}
               date="01/06/2020"
               content="Ullamco culpa ex sint et."
             />
