@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img  src="./src/assets/discord-logo.png" style="width: 140px" alt="discord">
+  <img  src="./src/assets/logo-discord.png" alt="discord">
   <br>
   Discord Clone
 </h1>
