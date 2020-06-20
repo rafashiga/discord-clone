@@ -28,8 +28,8 @@ const UserList: React.FC = () => {
       <UserRow nickname="Fulano Silva" isBot />
       {Array(20)
         .fill(0)
-        .map(() => (
-          <UserRow nickname="Fulano" />
+        .map((_, index) => (
+          <UserRow key={index} nickname="Fulano" />
         ))}
     </Container>
   );
